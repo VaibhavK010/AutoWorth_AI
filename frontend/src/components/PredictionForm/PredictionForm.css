@@ -1,0 +1,59 @@
+.prediction-card{
+
+    background:rgba(255,255,255,.96);
+
+    backdrop-filter:blur(20px);
+
+    border-radius:30px;
+
+    padding:55px;
+
+    box-shadow:0 30px 80px rgba(0,0,0,.25);
+
+}
+
+.prediction-card h3{
+
+    font-family:'Bodoni Moda',serif;
+
+    font-size:2rem;
+
+    margin-bottom:30px;
+
+}
+
+.form-control,
+.form-select{
+
+    height:58px;
+
+    border-radius:14px;
+
+}
+
+.btn-success{
+
+    height:60px;
+
+    border-radius:14px;
+
+    font-size:1.15rem;
+
+    font-weight:700;
+
+    transition:.35s;
+
+    background:#00AA6C;
+
+    border:none;
+
+}
+
+.btn-success:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 15px 35px rgba(0,170,108,.35);
+
+}
+

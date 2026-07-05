@@ -1,0 +1,26 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Model cache
+.ipynb_checkpoints/
+
+# Node
+frontend/node_modules/
+
+# Vite build
+frontend/dist/
+
+# Environment files
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+backend/model/
+frontend/src/assets/*.mp4
